@@ -4,7 +4,7 @@
 	<loc>https://breckenridgekitchenupdates.com/</loc>
 	<changefreq>weekly</changefreq>
 	<priority>1.0</priority>
-	<lastmod>2025-06-06</lastmod>
+	<lastmod>2025-07-01</lastmod>
 	<image:image>
 	<image:loc>https://images.squarespace-cdn.com/content/v1/67fd65f1ce0bb74242a3b24a/e78ae0f6-1475-4590-b855-3691c00d79e7/Updated-Modern-Kitchen-with-White-Shaker-Cabinets-in-North-Andover-MA.jpg</image:loc>
 	</image:image>
@@ -20,7 +20,7 @@
 	<loc>https://breckenridgekitchenupdates.com/services</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.8</priority>
-	<lastmod>2025-06-06</lastmod>
+	<lastmod>2025-07-01</lastmod>
 	<image:image>
 	<image:loc>https://images.squarespace-cdn.com/content/v1/67fd65f1ce0bb74242a3b24a/f07c4967-037a-45da-9b34-2c964952210d/Refinished+Custom+White+Shaker+Maple+Kitchen+Cabinets+in+North+Andover+MA.jpg</image:loc>
 	</image:image>
@@ -32,12 +32,18 @@
 	</image:image>
 </url>
 
+<url>
+	<loc>https://breckenridgekitchenupdates.com/services/kitchen-design</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.6</priority>
+	<lastmod>2025-07-01</lastmod>
+</url>
 
 <url>
 	<loc>https://breckenridgekitchenupdates.com/services/kitchen-renovation</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.6</priority>
-	<lastmod>2025-06-06</lastmod>
+	<lastmod>2025-06-27</lastmod>
 	<image:image>
 	<image:loc>https://images.squarespace-cdn.com/content/v1/67fd65f1ce0bb74242a3b24a/4f9b2cb3-026b-4093-9adf-c675b03a977f/Kitchen-Renovation-Custom-Island-in-process-North-Andover-MA.jpg</image:loc>
 	</image:image>
@@ -56,7 +62,7 @@
 	<loc>https://breckenridgekitchenupdates.com/services/kitchen-remodel</loc>
 	<changefreq>weekly</changefreq>
 	<priority>0.6</priority>
-	<lastmod>2025-06-06</lastmod>
+	<lastmod>2025-07-01</lastmod>
 	<image:image>
 	<image:loc>https://images.squarespace-cdn.com/content/v1/67fd65f1ce0bb74242a3b24a/62d39a47-abfb-47de-813f-3c60a1bd9cef/Kitchen-Remodel-Oak-Cabinet-After-Cabinet-Painting-North-Andover-MA.jpg</image:loc>
 	</image:image>
@@ -91,7 +97,7 @@
 	<loc>https://breckenridgekitchenupdates.com/services/custom-kitchen-island</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<lastmod>2025-06-06</lastmod>
+	<lastmod>2025-06-27</lastmod>
 	<image:image>
 	<image:loc>https://images.squarespace-cdn.com/content/v1/67fd65f1ce0bb74242a3b24a/908e3261-7e7e-44bb-985c-0af926a374df/Start-of-Kitchen-Renovation-with-Custom-Island-North-Andover-MA.jpg</image:loc>
 	</image:image>
@@ -107,7 +113,7 @@
 	<loc>https://breckenridgekitchenupdates.com/services/small-kitchen-updates</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.4</priority>
-	<lastmod>2025-06-06</lastmod>
+	<lastmod>2025-06-22</lastmod>
 </url>
 
 <url>
@@ -124,7 +130,7 @@
 	<loc>https://breckenridgekitchenupdates.com/contact</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.2</priority>
-	<lastmod>2025-06-05</lastmod>
+	<lastmod>2025-07-01</lastmod>
 	<image:image>
 	<image:loc>https://images.squarespace-cdn.com/content/v1/67fd65f1ce0bb74242a3b24a/6dd010e9-a93d-4073-8956-2458fe17d9be/Breckenridge-Kitchen-Updates-Logo-Essex-County-MA.jpeg</image:loc>
 	</image:image>
